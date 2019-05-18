@@ -1,0 +1,44 @@
+模型层
+		//查询总记录数
+		$count = $this->count();
+		//实例化分页类
+		$page = new Page($count,5);
+		//分页显示输出
+		$show = $page->show();
+		
+		$model = M();
+		$result = $model->limit($page->firstRow.",".$page->listRows)->select();
+		return array('show' => $show,'result' =>$result);
+
+		
+控制层
+	use Think\Page;
+	
+		//创建图书模型
+		$model = D('Book');
+		//调用查询方法
+		$list = $model->selectAll();
+		//变量分配
+		$this->assign('result',$list['result']);
+		$this->assign('show',$list['show']);
+		$this->display();
+		
+		
+视图层
+			.page-center{
+				padding-left:25%;
+				
+			}
+			<div class="page-center">
+				<ul class="pagination">
+					<li>{$show}</li>
+				</ul>
+			</div>
+			
+			
+			
+			
+			
+			
+			
+			
