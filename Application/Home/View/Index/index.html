@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>文学中文网</title>
+<link rel="stylesheet" href="__PUBLIC__/bs3.7/css/bootstrap.css">
+<script src="__PUBLIC__/bs3.7/js/jquery.min.js"></script>
+<script src="__PUBLIC__/bs3.7/js/bootstrap.min.js"></script>
+<script src="__PUBLIC__/bs3.7/js/docs.min.js"></script>
+<style type="text/css">
+	body{
+		padding-top: 110px;
+		background-color: #F6F5EE;
+	}
+	.row{
+			margin-bottom: 15px;
+		}
+	.white{
+		background-color: white;
+	}
+	.dropdown-menu{
+		background-color: #F6F5EE;
+	}
+	
+	.myImgshow{
+		position: absolute;
+	
+		  left:0;
+		  top: 0;
+		  width:80%;
+		  height:100%;
+  		  margin-left: 15px;
+  		  margin-right:10%;
+		  z-index: 10;
+		  padding-top: 20px;
+		  padding-bottom: 20px;
+		  color: black;
+		  text-align: center;
+		  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+		  background: #E9E8E7;
+		  opacity : 0.9;
+		  display: none;
+		
+	}
+	.row .col-md-2{
+		height: 200px;
+	}
+	.book1{
+		width:125px;
+		height: 166px;
+	}
+</style>
+</head>
+<body>
+<script type="text/javascript">
+	
+		jQuery(function(){
+			//获取图片元素
+			jQuery(".col-md-2").on("mouseover",function(){
+				jQuery(this).children(".myImgshow").stop().slideDown("fast");
+				
+			}).on("mouseout",function(){
+				jQuery(this).children(".myImgshow").stop().slideUp("fast");
+			});
+			
+			
+		});
+	</script>
+	
+<div class="container">
+	
+	<nav class="navbar navbar-default navbar-fixed-top well">
+	<div class="container ">
+		<!-- 导航头部 -->
+		<div class="navbar-header">
+			 <a class="navbar-brand" href="__CONTROLLER__/index">文学中文网</a>
+			 <button class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+			 	<span class="icon-bar"></span>
+			 	<span class="icon-bar"></span>
+			 	<span class="icon-bar"></span>
+			 </button>
+		</div>
+		<!-- 合并区部分 -->
+		<div id="mynavbar" class="collapse navbar-collapse">
+				<!-- 导航体部分 -->
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="__CONTROLLER__/index">首页</a></li>
+					<li><a href="__MODULE__/Login/readerLogin" target="_blank">我的</a></li>
+					<li><a href="__MODULE__/Login/writerLogin" target="_blank">作者专区</a></li>
+				</ul>
+				<!-- form表单搜索部分  -->
+				<form action="__CONTROLLER__/bookAll" method="get" class="navbar-form navbar-left">
+		        <div class="form-group">
+		          <input type="text" name="bname" class="form-control" placeholder="穷查理宝典">
+		        </div>
+		        <button type="submit" class="btn btn-danger">
+		        	<span class="glyphicon glyphicon-search"></span>
+		        </button>
+		      </form>
+		    
+		      
+		     <!-- ----------按钮下拉菜单测试开始------------------ -->
+		     	<div class="btn-group navbar-right">
+				  <button type="button" class="btn btn-default dropdown-toggle navbar-btn" data-toggle="dropdown">
+				    图书分类 <span class="caret"></span>
+				  </button>
+				  <ul class="dropdown-menu">
+				  <volist name='kind' id='vol'>
+				  	 <li><a href="__CONTROLLER__/bookAll/KID/{$vol.kid}">{$vol.kind}</a></li>
+				     <li class="divider"></li>
+				  </volist>
+				   <li><a href="__CONTROLLER__/bookAll">全部</a></li>
+				  </ul>
+				</div>
+		     <!-- ----------按钮下拉菜单测试结束------------------ -->
+		       <!-- 分类下拉菜单 -->
+		    
+		      
+		      <!-- ---------------- -->
+		</div>
+	</div>
+	</nav>
+
+	
+<!-- ---------------------------------------------------------   -->	
+	<div class="row">
+		<div class="col-md-12">
+		<!-- 幻灯片部分-- -->
+		<div id="mycarousel" class="carousel slide" data-ride="carousel">
+			
+			<div class="carousel-inner">
+				<div class="item active"><a href="__CONTROLLER__/bookShow/BID/{$recommend[0]['bid']}"><img src="{$recommend[0]['big_img']}"></a></div>
+				<div class="item "><a href="__CONTROLLER__/bookShow/BID/{$recommend[1]['bid']}"><img src="{$recommend[1]['big_img']}"></a></div>
+				<div class="item"><a href="__CONTROLLER__/bookShow/BID/{$recommend[2]['bid']}"><img src="{$recommend[2]['big_img']}"></a></div>
+			</div>
+			
+			<ol class="carousel-indicators">
+				<li data-target="#mycarousel" data-slide-to='0' class='active'></li>
+				<li data-target="#mycarousel" data-slide-to='1'></li>
+				<li data-target="#mycarousel" data-slide-to='2'></li>
+				
+			</ol>
+			
+			<a href="#mycarousel" class="left carousel-control" data-slide='prev'>
+				<span class="glyphicon glyphicon-chevron-left"></span>
+			</a>
+			<a href="#mycarousel" class="right carousel-control" data-slide='next'>
+				<span class="glyphicon glyphicon-chevron-right"></span>
+			</a>
+		</div>
+		<!-- -------幻灯片结束------- -->
+		</div>
+	</div>
+<!-- ------------------------------------------------------------------------ -->
+
+
+
+	<div class="row">
+		<div class="col-md-2 text-center"><h2>热门<span class="glyphicon glyphicon-fire" style="color: red"></span></h2></div>
+		<div class="col-md-10">
+			<ul class="pager">
+				 <volist name='kind' id='vol'>
+					 <li class="previous"><a href="__CONTROLLER__/bookAll/KID/{$vol.kid}" class="lead">{$vol.kind}</a></li>
+				  </volist>
+			</ul>
+		</div>
+		
+	</div>
+	<h1 class="page-header">热门小说</h1>
+	<div class="row">
+		<volist name="book1" id="vol">
+			<div class="col-md-2">
+				<img alt="" src="{$vol.bookimg}" class="img-rounded center-block book1">
+				<div class="myImgshow "><h3>{$vol.bname}</h3><p>{$vol.pen_name}</p><a href="__CONTROLLER__/bookShow/BID/{$vol.bid}" class="btn btn-success">去看看</a></div>
+			</div>	
+		</volist>	
+	</div>
+	
+	<h1 class="page-header">历史传记</h1>
+	<div class="row">
+		<volist name="book2" id="vol">
+			<div class="col-md-2">
+				<img alt="" src="{$vol.bookimg}" class="img-rounded center-block book1">
+				<div class="myImgshow "><h3>{$vol.bname}</h3><p>{$vol.pen_name}</p><a href="__CONTROLLER__/bookShow/BID/{$vol.bid}" class="btn btn-success">去看看</a></div>
+			</div>	
+		</volist>	
+	</div>
+	
+	
+</div>
+<!-- 这是底部 -->
+<div class="white">
+	<div class="container">
+		<div class="row">
+		<div class="col-md-12">
+			<div style="height: 500px;">
+				<h1 class="text-center page-header">作者：1140111116吉克斌</h1>
+			</div>
+		</div>
+	</div>
+	</div>
+</div>
+</body>
+</html>

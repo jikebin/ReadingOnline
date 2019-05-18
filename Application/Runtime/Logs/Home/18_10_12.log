@@ -1,0 +1,814 @@
+[ 2018-10-12T10:22:09+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T10:22:12+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:22:25+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:25:03+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:25:05+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:25:08+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T10:25:09+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:25:12+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T10:25:12+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:25:13+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:25:14+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T10:25:27+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:41:37+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T10:53:27+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '男' (T_STRING), expecting ']'
+
+[ 2018-10-12T10:55:26+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected 'true' (T_STRING), expecting ']'
+
+[ 2018-10-12T10:55:27+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected 'true' (T_STRING), expecting ']'
+
+[ 2018-10-12T10:56:09+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T10:56:10+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T10:56:24+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T10:56:25+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T10:56:25+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:00:11+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:00:11+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:00:11+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:00:12+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:06:30+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:06:31+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:06:41+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:06:49+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:08:23+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:08:24+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:08:24+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:08:52+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:09:27+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T11:09:29+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: syntax error, unexpected '='
+
+[ 2018-10-12T12:59:48+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T12:59:51+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T13:00:02+08:00 ] 127.0.0.1 /index.php/Home/Reader/bookShow/BID/5
+ERR: 非法操作:bookShow
+
+[ 2018-10-12T13:00:53+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:00:56+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:00:59+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:01:01+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:01:10+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:01:25+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:01:32+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:01:36+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:02:03+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:17:07+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:17:16+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:20:35+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:21:30+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:21:39+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:23:03+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T13:23:07+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T13:23:11+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:23:14+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:25:33+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T13:25:39+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:25:52+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:25:55+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:25:58+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:26:41+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T13:43:45+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:43:47+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T13:43:49+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:44:00+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:45:13+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T13:45:42+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-12T14:10:03+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/5
+ERR: Too few arguments to function Home\Model\SupportModel::count(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Model\SupportModel.class.php on line 26 and exactly 1 expected
+
+[ 2018-10-12T14:11:14+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/5
+ERR: Too few arguments to function Home\Model\SupportModel::count(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Model\SupportModel.class.php on line 26 and exactly 1 expected
+
+[ 2018-10-12T14:12:56+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:19:25+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:19:28+08:00 ] 127.0.0.1 /index.php/Home/Index/support
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T14:19:29+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:19:32+08:00 ] 127.0.0.1 /index.php/Home/Index/support
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T14:19:35+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:19:37+08:00 ] 127.0.0.1 /index.php/Home/Index/support
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T14:19:42+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:19:46+08:00 ] 127.0.0.1 /index.php/Home/Index/support
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T14:24:34+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:24:34+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:24:35+08:00 ] 127.0.0.1 /index.php/Home/Index/support
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T14:26:44+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:26:45+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:26:46+08:00 ] 127.0.0.1 /index.php/Home/Index/support
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T14:26:51+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:26:52+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:27:35+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:27:55+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:28:28+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:28:48+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:28:55+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:29:00+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:29:34+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:30:16+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:30:40+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:32:25+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:32:39+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:35:02+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:38:46+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:39:11+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:39:17+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:39:29+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:40:13+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:40:18+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:40:39+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:47:09+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:47:14+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:48:10+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:48:15+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:48:33+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:49:39+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:50:09+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:50:20+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:50:30+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:50:45+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:52:48+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:53:27+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:54:38+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:54:40+08:00 ] 127.0.0.1 /index.php/Home/Index/test
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2018-10-12T14:54:53+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:54:54+08:00 ] 127.0.0.1 /index.php/Home/Index/test
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2018-10-12T14:55:22+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:55:23+08:00 ] 127.0.0.1 /index.php/Home/Index/test
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T14:57:26+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T14:57:27+08:00 ] 127.0.0.1 /index.php/Home/Index/test
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:00:14+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:00:17+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:00:20+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` LIMIT 1   [ RunTime:0.0000s ]
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T15:00:30+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:00:31+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` LIMIT 1   [ RunTime:0.0000s ]
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T15:00:33+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` LIMIT 1   [ RunTime:0.0000s ]
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 148 and exactly 1 expected
+
+[ 2018-10-12T15:02:31+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:02:32+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+
+[ 2018-10-12T15:02:38+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:02:39+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+
+[ 2018-10-12T15:03:07+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:03:08+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+
+[ 2018-10-12T15:04:18+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:04:20+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` LIMIT 1   [ RunTime:0.0000s ]
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 149 and exactly 1 expected
+
+[ 2018-10-12T15:04:21+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` LIMIT 1   [ RunTime:0.0000s ]
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 149 and exactly 1 expected
+
+[ 2018-10-12T15:05:24+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:05:25+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+
+[ 2018-10-12T15:06:30+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 150 and exactly 1 expected
+
+[ 2018-10-12T15:06:32+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+ERR: Too few arguments to function Home\Model\SupportModel::countClick(), 0 passed in C:\upupw\vhosts\www.wenxue.com\Application\Home\Controller\IndexController.class.php on line 150 and exactly 1 expected
+
+[ 2018-10-12T15:06:38+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:06:40+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:08:24+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:11:34+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-12T15:11:36+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:11:42+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:11:47+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:27:01+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:27:04+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:27:06+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 4 [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:27:08+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:27:10+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `support` WHERE `SID` = 5 [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:27:12+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:30:41+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:30:42+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 6 [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:30:45+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:30:58+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: DELETE FROM `support` WHERE `SID` = 7 [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2018-10-12T15:31:00+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:09+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=holder.js ) LIMIT 1  
+
+[ 2018-10-12T15:31:10+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 8 [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:11+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:11+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 9 [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:12+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:12+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 10 [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:13+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-12T15:31:14+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 11 [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+

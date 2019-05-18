@@ -1,0 +1,24 @@
+[ 2018-10-10T16:50:06+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-10T16:50:21+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-10T16:50:30+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-10T16:51:26+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-10T16:51:32+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-10T16:51:46+08:00 ] 127.0.0.1 /index.php/Home/Index/bookShow/BID/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter`,`loadTime` FROM `bcontent` WHERE ( bid=holder.js ) 
+

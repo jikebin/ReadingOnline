@@ -1,0 +1,8 @@
+[ 2018-10-05T17:36:47+08:00 ] 127.0.0.1 /index.php/Admin/User/readerData/RID/1
+ERR: 1146:Table 'literature.reader' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `reader`
+
+[ 2018-10-05T17:37:08+08:00 ] 127.0.0.1 /index.php/Admin/User/readerData/RID/1
+ERR: 1146:Table 'literature.reader' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `reader`
+

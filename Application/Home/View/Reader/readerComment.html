@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>读者评论</title>
+<link rel="stylesheet" href="__PUBLIC__/bs3.7/css/bootstrap.css">
+<script src="__PUBLIC__/bs3.7/js/jquery.min.js"></script>
+<script src="__PUBLIC__/bs3.7/js/bootstrap.min.js"></script>
+<script src="__PUBLIC__/bs3.7/js/docs.min.js"></script>
+<style type="text/css">
+	body{
+		background-color: #EFEFEF;
+	}
+	.header{
+		background-color: white;
+	}
+	.head-blue{
+		height:3px;
+		background: #50A8FF;
+	}
+	h2{
+		color: #50A8FF;
+	}
+	.pull-right{
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.name{
+		
+		margin: 15px;
+	}	
+	 .my-list{
+		height:1000px;
+		width: 140px;
+		border:1px solid #EFEFEF;
+	}
+	.container{
+		background-color: white;
+	}
+	.body-top{
+		margin-top: 22px;
+	}
+	
+	.container{
+		padding-right: 0px;
+  		padding-left: 0px;
+		
+	}
+	.left-block{
+		width:1030px;
+		
+	}
+	.img-circle{
+		width: 50px;
+		height:50px;
+	}
+</style>
+</head>
+<body>
+<div class="header">
+	<div class="head-blue"></div>
+	<div class="container">
+		<div class="col-md-2"><h2><a href="__MODULE__/Index/index">文学中文网</a></h2></div>
+		
+		<div class="pull-right">
+			<div class="col-md-3">
+			<img alt="" src="{$Think.session.user.img}" class="img-circle">
+			</div>
+			<div class="col-md-9">
+			<p class="name">{$Think.session.user.nickname}</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- ------下边是整个页面的体部分-------------------------- -->
+<div class="container body-top">
+	
+		<div class="my-list pull-left">
+			<div class="list-group">
+				<a class="list-group-item " href="__CONTROLLER__/readerData"><span class="glyphicon glyphicon-user">&nbsp;</span>个人资料</a>
+				<a class="list-group-item " href="__CONTROLLER__/reader"><span class="glyphicon glyphicon-book">&nbsp;</span>我的书架</a>
+				<a class="list-group-item active" href="__CONTROLLER__/readerComment"><span class="glyphicon glyphicon-envelope">&nbsp;</span>我的评论</a>
+				<a class="list-group-item" href="__CONTROLLER__/readerPassword"><span class="glyphicon glyphicon-lock">&nbsp;</span>更改密码</a>
+				<a class="list-group-item" href="__MODULE__/Login/quit"><span class="glyphicon glyphicon-remove-sign">&nbsp;</span>退出登录</a>
+			</div>
+			
+		</div>
+	<!-- ---------------------------下面是中间部分------------------------ -->
+		<div class="left-block pull-left">
+			
+			<div>
+				<ol class="breadcrumb">
+				   <li><h5>我的评论</h5></li>
+				</ol>
+			</div>
+			<div>
+			<table class="table">
+			<volist name="data" id="vol">
+				<tr>
+					<td>
+						<div class="media">
+							<div class="media-left">
+								<a href="#">
+								<img class="media-object img-circle" src="holder.js/50x50">
+								</a>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading">《{$vol.bname}》</h4>
+								<p>{$vol.comtext}</p>
+							</div>
+						</div>
+					</td>
+					<td>
+						<ul class="list-unstyled">
+							<li>{$vol.comtime}</li>
+							<li><a href="__CONTROLLER__/deleteCom/cid/{$vol.cid}">删除</a></li>
+						</ul>
+					</td>
+				</tr>
+			</volist>
+				
+			</table>
+			</div>
+		</div>
+	
+</div>
+</body>
+</html>

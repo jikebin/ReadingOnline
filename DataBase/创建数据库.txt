@@ -1,0 +1,227 @@
+1、用户表(user)
+	ID(主键)
+	头像
+	昵称(唯一)
+	性别(0,1)
+	真实姓名
+	手机号(唯一)
+	e-mail
+	QQ
+	所在地区
+	密码
+create table user(
+	RID int auto_increment primary key,
+	img varchar(500) not null,
+	nickname varchar(100) unique,
+	sex char(2),
+	name varchar(50),
+	phone char(11),
+	e_mail varchar(50),
+	QQ		varchar(12),
+	address	varchar(100),
+	password varchar(50)
+);
+alter table user modify img varchar(500) default '/图片路径'; 
+__________________________________________________
+2、作者表
+	ID(主键)
+	头像
+	笔名(唯一)
+	性别(0,1)
+	真实姓名
+	手机号(唯一)
+	e-mail
+	QQ
+	所在地区
+	密码
+create table writer(
+	WID int auto_increment primary key,
+	img varchar(500) not null,
+	pen_name varchar(100) unique,
+	sex char(2),
+	name varchar(50),
+	phone char(11),
+	e_mail varchar(50),
+	QQ		varchar(12),
+	address	varchar(100),
+	password varchar(50)
+);
+——————————————————————————————————————————————————————	
+3、管理员表
+	ID
+	用户名
+	密码
+create table admin(
+	AID int primary key,
+	username varchar(20),
+	password varchar(50)
+);	
+__________________________________________________________
+4、图书类别表
+	类别ID
+	图书类别
+create table bkind(
+	KID int auto_increment primary key,
+	kind varchar(50)
+);	
+——————————————————————————————————————————————————
+	5、图书信息表
+	图书ID
+	类别ID
+	图书名称
+	作者ID
+	作者笔名
+	下载路径
+	图书封面
+	简介
+create table book(
+	BID  int auto_increment primary key,
+	KID	 int,
+	bname varchar(30),
+	WID int,
+	pen_name varchar(100),
+	path varchar(500),
+	bookImg varchar(500),
+	intro	text,
+	foreign key(KID) references bkind(KID)
+	
+);
+************************************
+6、图书内容表
+	内容ID
+	图书ID
+	章节名称
+	图书内容
+	上传时间
+	字数
+	审核状态（0为待审核，1为通过，-1为审核失败）
+create table bcontent(
+	CID int auto_increment primary key,
+	BID int,
+	chapter varchar(500),
+	bookText longText,
+	loadTime timestamp,
+	number int,
+	flag char(2),
+	foreign key(BID) references book(BID)
+);
+*******************************************
+7、收藏图书表
+	1、收藏ID
+	2、用户ID
+	3、图书ID集合
+create table bcollect(
+	ID  int auto_increment primary key,
+	RID int,
+	BIDs varchar(500),
+	foreign key(RID) references user(RID)
+); 
+******************************
+8、点赞表
+	点赞ID
+	图书ID
+	点赞用户ID
+create table support(
+	SID  int auto_increment primary key,
+	BID int,
+	RID int,
+	foreign key(BID) references book(BID),
+	foreign key(RID) references user(RID)
+);
+******************************
+9、订阅表
+	订阅ID
+	图书ID
+	订阅用户ID
+create table subscriber(
+	SID  int auto_increment primary key,
+	BID int,
+	RID int,
+	foreign key(BID) references book(BID),
+	foreign key(RID) references user(RID)
+);
+****************************
+10、签到表
+	1、签到ID
+	2、用户ID
+	3、签到时间
+create table sign(
+	SID  int auto_increment primary key,
+	RID int,
+	signTime date,
+	foreign key(RID) references user(RID)
+);
+****************************
+11、评论表
+	评论ID
+	图书ID
+	用户ID
+	评论内容
+	评论时间
+create table comment(
+	CID  int auto_increment primary key,
+	BID int,
+	RID int,
+	comText text,
+	comTime timestamp,
+	foreign key(BID) references book(BID),
+	foreign key(RID) references user(RID)
+	
+);
+***************************
+12、消息通知
+	消息ID
+	作者ID
+	消息内容
+	发送者ID
+create table message(
+	MID int auto_increment primary key,
+	WID int,
+	mesText text,
+	send int,
+	foreign key(WID) references writer(WID)
+);
+**************************
+13、精彩推荐表
+	推荐ID
+	图书ID
+create table recommend(
+	RID int auto_increment primary key,
+	BID int,
+	foreign key(BID) references book(BID)
+);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	

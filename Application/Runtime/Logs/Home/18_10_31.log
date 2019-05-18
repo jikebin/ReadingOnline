@@ -1,0 +1,40 @@
+[ 2018-10-31T10:48:14+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-31T10:48:25+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: INSERT INTO `support` (`BID`,`RID`) VALUES ('5','1') [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-31T10:48:26+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `support` WHERE ( bid=5 and rid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: DELETE FROM `support` WHERE `SID` = 19 [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=5 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-31T10:49:43+08:00 ] 127.0.0.1 /index.php/Home/Index/comment/bid/5/comText/%E5%BE%88%E5%A5%BD
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0030s ]
+SQL: INSERT INTO `comment` (`BID`,`RID`,`comText`) VALUES ('5','1','很好') [ RunTime:0.0040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-31T10:50:32+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+

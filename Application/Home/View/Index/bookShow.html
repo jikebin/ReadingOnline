@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>图书展示</title>
+<link rel="stylesheet" href="__PUBLIC__/bs3.7/css/bootstrap.css">
+<script src="__PUBLIC__/bs3.7/js/jquery.min.js"></script>
+<script src="__PUBLIC__/bs3.7/js/bootstrap.min.js"></script>
+<script src="__PUBLIC__/bs3.7/js/docs.min.js"></script>
+<script src="__PUBLIC__/plugin/layer/layer.js"></script>
+<style type="text/css">
+	body{
+		padding-top: 110px;
+		
+	}
+	.green{
+		background-color: #F6F5EE;
+		padding-bottom: 15px;
+		padding-top: 15px;
+		
+	}
+	.intro{
+		height:95px;
+		margin-bottom: 15px;
+	}
+	#imgshow{
+		width:156px;
+		height:200px;
+	}
+	.list{
+		margin-bottom: 15px;
+	}
+	.content{
+		margin-top: 20px;
+		
+	}
+	.img-circle{
+		width:50px;
+		height:50px;
+	}
+</style>
+</head>
+<body>
+<script type="text/javascript">
+	$(function(){
+		//获取点赞按钮对象
+		$("#support").on("click",function(){
+			$.get("__CONTROLLER__/support/bid/{$book.bid}",function(res){
+				if(res==-1){
+					window.location.href="__MODULE__/Login/readerLogin";
+				}else{
+					//查找到点赞数量对象
+					$(".badge").text(res);
+				}
+				
+			});		
+		});
+		
+		//获取收藏图书按钮
+		$("#collect").on("click",function(){
+			$.get("__CONTROLLER__/bcollect/bid/{$book.bid}",function(res){
+				if(res==-1){
+					window.location.href="__MODULE__/Login/readerLogin";
+				}else if(res==0){
+					layer.msg('成功加入书架');
+				}else{
+					layer.msg('已经加入书架');
+				}
+				
+			});		
+		});
+		
+		//获取评论按钮
+		$("#comment").on("click",function(){
+				//获取评论框内容，并输出
+				var text = $("textarea.form-control").val();
+				//获取图书id
+				//var id = {$book.bid};
+				if(text!=""){
+					$.get("__CONTROLLER__/comment/bid/{$book.bid}/comText/"+text,function(res){
+						if(res==-1){
+							window.location.href="__MODULE__/Login/readerLogin";
+						}else if(res==0){
+							layer.msg('评论内容不合法');
+							window.location.reload();
+						}else{
+							layer.msg('评论成功');
+							window.location.reload();
+						}
+						
+					});	
+				}
+				
+		});
+		
+		
+	});
+	
+	
+	
+</script>
+<div class="container">
+	<nav class="navbar navbar-default navbar-fixed-top well">
+	<div class="container ">
+		<!-- 导航头部 -->
+		<div class="navbar-header">
+			 <a class="navbar-brand" href="__CONTROLLER__/index">文学中文网</a>
+			 <button class="navbar-toggle" data-toggle="collapse" data-target="#mynavbar">
+			 	<span class="icon-bar"></span>
+			 	<span class="icon-bar"></span>
+			 	<span class="icon-bar"></span>
+			 </button>
+		</div>
+		<!-- 合并区部分 -->
+		<div id="mynavbar" class="collapse navbar-collapse">
+				<!-- 导航体部分 -->
+				<ul class="nav navbar-nav">
+					<li class=""><a href="__CONTROLLER__/index">首页</a></li>
+					<li><a href="__MODULE__/Login/readerLogin" >我的</a></li>
+					<li><a href="__MODULE__/Login/writerLogin">作者专区</a></li>
+				</ul>
+				<!-- form表单搜索部分  -->
+				<form action="__CONTROLLER__/bookAll" method="get" class="navbar-form navbar-left">
+		        <div class="form-group">
+		          <input type="text" name="bname" class="form-control" placeholder="穷查理宝典">
+		        </div>
+		        <button type="submit" class="btn btn-danger">
+		        	<span class="glyphicon glyphicon-search"></span>
+		        </button>
+		      </form>
+		    
+		      
+		     <!-- ----------按钮下拉菜单测试开始------------------ -->
+		     	<div class="btn-group navbar-right">
+				  <button type="button" class="btn btn-default dropdown-toggle navbar-btn" data-toggle="dropdown">
+				    图书分类 <span class="caret"></span>
+				  </button>
+				  <ul class="dropdown-menu">
+				  <volist name='kind' id='vol'>
+				  	 <li><a href="__CONTROLLER__/bookAll/KID/{$vol.kid}">{$vol.kind}</a></li>
+				     <li class="divider"></li>
+				  </volist>
+				   <li><a href="__CONTROLLER__/bookAll">全部</a></li>
+				  </ul>
+				</div>
+		     <!-- ----------按钮下拉菜单测试结束------------------ -->
+		       <!-- 分类下拉菜单 -->
+		    
+		      
+		      <!-- ---------------- -->
+		</div>
+	</div>
+	</nav>
+
+<!-- ------------------------导航条部分结束----------------------------------------- -->
+	<div class="row green" >
+		<div class="col-md-2" >
+			<img alt="" src="{$book.bookimg}" id="imgshow">
+		</div>
+		<div class="col-md-10">
+			<h1 class="page-header">{$book.bname}</h1>
+			
+			<ul class="list-inline">
+				<li>作者：{$book.pen_name}</li>
+				<li>更新：{$book.time}</li>
+			</ul>
+		<div class="intro">简介：
+			<p>{$book.intro}</p>
+		</div>
+		<div class="col-md-2"><a href="__CONTROLLER__/bookRead/CID/{$list[0]['cid']}" class="btn btn-primary">点击阅读</a></div>
+		<div class="col-md-2"><a href="javascript:;" class=" btn btn-danger " id="support">点赞&nbsp;<span class="badge">{$count}</span></a></div>
+		<div class="col-md-2"><a href="javascript:;" class="btn btn-success" id="collect">收藏本书</a></div>
+		<div class="col-md-2"></div>
+		<div class="col-md-2 col-md-offset-2">
+		<a href="__CONTROLLER__/download/id/{$book.bid}" class="btn btn-primary"><span class="glyphicon glyphicon-download-alt"></span>下载</a>
+		</div>
+		
+		</div>
+	</div>
+
+<!-- ---------------------------------------下面是目录部分--------------------------------- -->
+	<h2 class="page-header">目&nbsp;录</h2>
+	<div class="content">
+	<volist  name="list" id='vol'>
+
+		<div class="col-md-4 list">
+			<a href="__CONTROLLER__/bookRead/CID/{$vol.cid}">{$vol.chapter|mb_substr=###,0,22,"utf-8"}</a>
+		</div>
+		
+	</volist>
+		
+	</div>
+<!-- ----------------------------下面是评论区------------------------------- -->
+
+<h2 class="page-header text-center">简&nbsp;评</h2>
+
+	<form action="javascript:;">
+		<div class="form-group">
+		<textarea class="form-control" rows="4" placeholder="140字评论区"></textarea>
+		</div>
+		<div class="col-md-2 col-md-offset-10">
+			<input type="button" class="btn btn-lg btn-primary" id="comment" value="提交评论">
+		</div>
+	</form>
+	
+	<!-- -----------评论展示---------- -->
+
+	
+<h1 class="page-header"></h1>
+
+
+	<volist name="comment" id="vol">
+	
+	<div class="media">
+		<div class="media-left">
+			<img class="media-object img-circle" src="{$vol.img}">
+		</div>
+		<div class="media-body">
+			<h4 class="media-heading">{$vol.name}</h4>
+			<p>评论内容：{$vol.comtext}</p>
+		</div>
+	</div>
+
+	</volist>
+
+
+
+<h1 class="page-header"></h1>
+	<div>
+		<button class="btn btn-warning  center-block"><h3>查看全部评论<h3></button>
+	</div>
+
+<!-- ------------------最下面的说明条------------------ -->
+
+
+
+
+
+
+
+
+
+
+</div>
+<!-- 说明条写在最下面 -->
+<div class="text-center green">
+	<h1 class="page-header"></h1>
+	<h3>作者：1140111116吉克斌</h3>
+</div>
+</body>
+</html>

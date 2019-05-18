@@ -1,0 +1,461 @@
+[ 2018-10-19T09:51:17+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:51:27+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:51:29+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:51:30+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:51:33+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:51:37+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:51:39+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:52:45+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:52:46+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:52:54+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:52:55+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:52:58+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T09:53:00+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:19:12+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:19:22+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:19:25+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:20:47+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid= ) 
+
+[ 2018-10-19T10:21:58+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:22:00+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:22:02+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:22:04+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:22:15+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:23:00+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:23:02+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:24:15+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:24:18+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:24:27+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:26:46+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:26:50+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:26:55+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:27:06+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:27:15+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:29:14+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:29:30+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:29:31+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:29:33+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:29:35+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:29:53+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:33:24+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:35:09+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:35:19+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:35:21+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:35:42+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:35:43+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:36:18+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:36:27+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:38:37+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/6
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2018-10-19T10:40:57+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:41:00+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:41:01+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:41:04+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:41:08+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:41:13+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:41:20+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:42:58+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:42:59+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:43:02+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:43:06+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:47:12+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:47:14+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:47:17+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:48:05+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:49:20+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:49:22+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:49:23+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:49:59+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:50:02+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:50:10+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:50:13+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:50:22+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:50:23+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:50:33+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:50:39+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:51:16+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:51:18+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:51:26+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerContent/bid/holder.js/50x50
+ERR: 1054:Unknown column 'holder.js' in 'where clause'
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid=holder.js ) 
+
+[ 2018-10-19T10:51:29+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:52:38+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:52:59+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:53:00+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:53:03+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:53:06+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:54:15+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:54:16+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:54:19+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T10:54:21+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:06:47+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:07:04+08:00 ] 127.0.0.1 /index.php/Home/Writer/writerCount/bid/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `support` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `support` WHERE ( BID=6 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bcollect` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bcollect` WHERE ( BID=6 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2018-10-19T11:11:19+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:11:22+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:11:31+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:11:36+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:11:54+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:12:25+08:00 ] 127.0.0.1 /index.php/Home/Index/bookRead/CID/
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid= ) 
+
+[ 2018-10-19T11:13:07+08:00 ] 127.0.0.1 /index.php/Home/Index/bookRead/CID/
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `cid`,`chapter` FROM `bcontent` WHERE ( bid= ) 
+
+[ 2018-10-19T11:13:35+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:20:54+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:20:56+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:20:59+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:21:01+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T11:34:19+08:00 ] 127.0.0.1 /index.php/Home/Index/support/bid/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2018-10-19T13:46:38+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:21:49+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:21:51+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:22:35+08:00 ] 127.0.0.1 /index.php/Home/Reader/readerDataAlter
+ERR: 1406:Data too long for column 'QQ' at row 1
+ [ SQL语句 ] : UPDATE `user` SET `nickname`='15846068602用户',`sex`='女',`name`='李玉玲',`phone`='15846068602',`e_mail`='15846068602@163.com',`QQ`='312232313131313',`address`='黑龙江' WHERE `RID` = 4
+
+[ 2018-10-19T15:23:29+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:23:33+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:23:35+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:23:57+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:24:15+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:24:18+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:25:20+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:26:34+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:26:36+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:26:38+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:26:45+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:26:53+08:00 ] 127.0.0.1 /index.php/Home/Reader/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:31:11+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:31:25+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:32:09+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:46:39+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:46:42+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:49:58+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:50:03+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:51:36+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:51:38+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:51:42+08:00 ] 127.0.0.1 /index.php/Home/Writer/holder.js/50x50
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:51:48+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:54:53+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:54:54+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
+[ 2018-10-19T15:54:57+08:00 ] 127.0.0.1 /index.php/Home/Index/holder.js/125x166
+ERR: 非法操作:holder.js
+
